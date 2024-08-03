@@ -47,7 +47,6 @@ header {
 
 .wrapper {
   max-width: 50rem;
-  padding: 0 1rem;
   margin: 0 auto;
   font-size: 0.9rem;
 }
